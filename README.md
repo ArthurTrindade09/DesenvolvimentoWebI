@@ -1,4 +1,4 @@
-# Desenvolvimento Web I
+# Desenvolvimento Web I - Atividades e Projetos
 
 ## Aluno: Arthur Silva Trindade
 
@@ -19,6 +19,4 @@
 - Atividade 14 [[Repo](https://github.com/ArthurTrindade09/Web1_atividade14)] [[page](https://arthurtrindade09.github.io/Web1_atividade14/)]
 ---
 ### Projetos:
-- ...
-- ...
-- ...
+Ainda não começados ...
