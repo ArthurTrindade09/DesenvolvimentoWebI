@@ -19,22 +19,22 @@
 - Atividade 14 [[Repo](https://github.com/ArthurTrindade09/Web1_atividade14)] [[page](https://arthurtrindade09.github.io/Web1_atividade14/)]
 
 #### Extras:
-- Exercicio 01 [[Repo](https://github.com/ArthurTrindade09/DWebI_Exercicio01) [page](https://arthurtrindade09.github.io/DWebI_Exercicio01/)]
-- Exercicio 02 [[Repo](https://github.com/ArthurTrindade09/DWebI_Exercicio02) [page](https://arthurtrindade09.github.io/DWebI_Exercicio02/)]
-- Exercicio 03 [[Repo](https://github.com/ArthurTrindade09/DWebI_Exercicio03) [page](https://arthurtrindade09.github.io/DWebI_Exercicio03/)]
-- Exercicio 04 [[Repo](https://github.com/ArthurTrindade09/DWebI_Exercicio04) [page](https://arthurtrindade09.github.io/DWebI_Exercicio04/)]
-- Exercicio 05 [[Repo](https://github.com/ArthurTrindade09/DWebI_Exercicio05) [page](https://arthurtrindade09.github.io/DWebI_Exercicio05/)]
-- Exercicio 06 [[Repo](https://github.com/ArthurTrindade09/DWebI_Exercicio06) [page](https://arthurtrindade09.github.io/DWebI_Exercicio06/)]
+- Exercicio 01 [[Repo](https://github.com/ArthurTrindade09/DWebI_Exercicio01)] [[page](https://arthurtrindade09.github.io/DWebI_Exercicio01/)]
+- Exercicio 02 [[Repo](https://github.com/ArthurTrindade09/DWebI_Exercicio02)] [[page](https://arthurtrindade09.github.io/DWebI_Exercicio02/)]
+- Exercicio 03 [[Repo](https://github.com/ArthurTrindade09/DWebI_Exercicio03)] [[page](https://arthurtrindade09.github.io/DWebI_Exercicio03/)]
+- Exercicio 04 [[Repo](https://github.com/ArthurTrindade09/DWebI_Exercicio04)] [[page](https://arthurtrindade09.github.io/DWebI_Exercicio04/)]
+- Exercicio 05 [[Repo](https://github.com/ArthurTrindade09/DWebI_Exercicio05)] [[page](https://arthurtrindade09.github.io/DWebI_Exercicio05/)]
+- Exercicio 06 [[Repo](https://github.com/ArthurTrindade09/DWebI_Exercicio06)] [[page](https://arthurtrindade09.github.io/DWebI_Exercicio06/)]
 
 ---
 ### Projetos:
-- ATIVIDADE PRATICA: [[Repo](https://github.com/ArthurTrindade09/DesenWebI_AtividadePratica) [page](https://arthurtrindade09.github.io/DesenWebI_AtividadePratica/)]
+- ATIVIDADE PRATICA: [[Repo](https://github.com/ArthurTrindade09/DesenWebI_AtividadePratica)] [[page](https://arthurtrindade09.github.io/DesenWebI_AtividadePratica/)]
 
 #### Não feitos ainda
-- PROJETO 01: [[Repo]() [page]()]
-- PROJETO 02: [[Repo]() [page]()]
-- PROJETO 03: [[Repo]() [page]()]
-- PROJETO 04: [[Repo]() [page]()]
-- PROJETO 05: [[Repo]() [page]()]
-- PROJETO 06: [[Repo]() [page]()]
-- PROJETO 07: [[Repo]() [page]()]
+- PROJETO 01: [[Repo]()] [[page]()]
+- PROJETO 02: [[Repo]()] [[page]()]
+- PROJETO 03: [[Repo]()] [[page]()]
+- PROJETO 04: [[Repo]()] [[page]()]
+- PROJETO 05: [[Repo]()] [[page]()]
+- PROJETO 06: [[Repo]()] [[page]()]
+- PROJETO 07: [[Repo]()] [[page]()]
